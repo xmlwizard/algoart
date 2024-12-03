@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "denoland.vscode-deno",
+    "bradlc.vscode-tailwindcss",
+    "github.vscode-pull-request-github",
+    "catppuccin.catppuccin-vsc",
+    "catppuccin.catppuccin-vsc-icons",
+    "stivo.tailwind-fold",
+    "raymcclain.theme-timer",
+    "n3rds-inc.white-noise",
+    "biomejs.biome",
+    "n3rds-inc.time",
+    "n3rds-inc.pomodoro-timer-focus"
+  ]
+}
