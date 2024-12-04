@@ -1,5 +1,5 @@
 {
-  "deno.enable": true,
+  "deno.enable": false,
   "deno.lint": true,
   "editor.defaultFormatter": "denoland.vscode-deno",
   "[typescriptreact]": {
@@ -20,7 +20,6 @@
   "terminal.integrated.enableVisualBell": true,
   "terminal.integrated.gpuAcceleration": "off",
   "tailwindCSS.emmetCompletions": true,
-  
   "tailwindcss-intellisense.trace.server": "messages",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
