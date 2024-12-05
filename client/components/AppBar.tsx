@@ -1,3 +1,6 @@
+
+
+// TODO: Refactor this component to be reusable/dry
 function AppBar() {
     return ( 
 
